@@ -36,7 +36,7 @@
     "vuetify-money": "^1.2.0",
     "vuex": "^3.6.2",
     "vuex-persistedstate": "^4.1.0",
-    "webpack": "^5.73.0",
+    "webpack": "^5.76.0",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {
